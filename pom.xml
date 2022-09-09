@@ -14,8 +14,8 @@
  
      <distributionManagement>
          <repository>
-             <id>codeartifact</id>
-             <name>codeartifact</name>
+             <id>maven</id>
+             <name>maven</name>
              <url>https://mydomain-633873864852.d.codeartifact.us-east-1.amazonaws.com/maven/maven/</url>
          </repository>
      </distributionManagement>
