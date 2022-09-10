@@ -13,7 +13,7 @@
         <exec.mainClass>com.mycompany.mypro.Mypro</exec.mainClass>
     </properties>
     <scm>
-        <connection>scm:git:https://github.com/senthiljack/qq.git</connection>
+        <connection>scm:git:git@github.com:senthiljack/qq.git</connection>
     </scm>
      <distributionManagement>
          <repository>
